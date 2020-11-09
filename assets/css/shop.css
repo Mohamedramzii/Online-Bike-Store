@@ -1,0 +1,17 @@
+.logo-small-device a img
+{
+    max-width: 70px;
+    max-height: 70px;
+}
+.logo-small-device div
+{
+    display: inline;
+    font-size: 25px;
+    padding: 20px;
+    color: #ffb52f;
+    
+}
+.breadcrumb-area pt-255 pb-170 img
+{
+    background-repeat: no-repeat;
+}

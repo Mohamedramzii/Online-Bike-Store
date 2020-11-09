@@ -1,0 +1,13 @@
+.logo-small-device a img
+{
+    max-width: 70px;
+    max-height: 70px;
+}
+.logo-small-device div
+{
+    display: inline;
+    font-size: 25px;
+    padding: 20px;
+    color: #ffb52f;
+    
+}
